@@ -17,7 +17,7 @@ Quais as vantagens de se trabalhar e aprender O TRIFACTA e utilizar uma ferramen
 
 · Uma ferramenta para tratamento de dados, que permite de forma visual, analisar campo a campo possíveis problemas que estão carregados nas bases de dados.
 · Permite que você leia bases de dados por meio de conectores, trazendo todas as informações com dados exploratórios e métricas quantitativas.
-· Suporte para todas as principais nuvens: Google, AWS, Azure e on-premise
+· Suporte para todas as principais nuvens: Google, AWS, Azure e on-premise.
 · É 100% Visual.
 
 Então conheça como você pode utilizá-la no seu dia a dia e incluir dentro do seu portfólio a aprendizagem sobre preparação de dados em seus projetos de dados. 🙌
