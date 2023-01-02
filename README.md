@@ -1,4 +1,4 @@
-# Alteryxtrifacta
+## Alteryx TRIFACTA
 Informações e materiais sobre preparação, governança e qualidade de dados
 
 As empresas de todo o mundo trabalham com dados, independente da finalidade, se produto final ou intermediário, estas dependem dos dados para tomar as suas decisões e para acompanhar se estão prosperando ou passando por processos críticos. Com isso, é perceptível que os dados devam ter uma boa qualidade, para isso vamos falar um pouco das vantagens de governarmos os dados, tê-los sempre sob nosso controle. 👨‍💻
